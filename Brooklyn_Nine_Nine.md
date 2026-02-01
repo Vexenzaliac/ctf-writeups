@@ -10,5 +10,5 @@ I run a scan with nmap to discover open ports and their associated services.
 ```
 nmap -sC -sV <ip_address>
 ```
-![Nmap Results](https://github.com/Vexenzaliac/ctf-writeups/blob/main/images/Screenshot%20(1).png) \
+![Nmap Results](https://github.com/nicholasingle/ctf-writeups/blob/main/images/Screenshot%20(1).png) \
 There is a lot of valuable information in these results. The first thing that pops out to me is that Anonymous FTP login is allowed and we can see that there is a note addressed to Jake. 
